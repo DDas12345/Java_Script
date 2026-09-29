@@ -22,6 +22,22 @@ This repository contains beginner-to-intermediate JavaScript notes and practice 
 - [notes/11-error-handling-and-debugging.js](notes/11-error-handling-and-debugging.js)
 - [notes/12-modules-and-modern-javascript.js](notes/12-modules-and-modern-javascript.js)
 
+### Practice exercises
+- [notes/cheatsheet.js](notes/cheatsheet.js) – quick reference for common JavaScript syntax
+- [notes/exercises/00-introduction-practice.js](notes/exercises/00-introduction-practice.js)
+- [notes/exercises/01-variables-and-data-types-practice.js](notes/exercises/01-variables-and-data-types-practice.js)
+- [notes/exercises/02-operators-and-expressions-practice.js](notes/exercises/02-operators-and-expressions-practice.js)
+- [notes/exercises/03-control-flow-and-loops-practice.js](notes/exercises/03-control-flow-and-loops-practice.js)
+- [notes/exercises/04-functions-and-scope-practice.js](notes/exercises/04-functions-and-scope-practice.js)
+- [notes/exercises/05-arrays-and-iteration-practice.js](notes/exercises/05-arrays-and-iteration-practice.js)
+- [notes/exercises/06-objects-and-classes-practice.js](notes/exercises/06-objects-and-classes-practice.js)
+- [notes/exercises/07-strings-and-number-methods-practice.js](notes/exercises/07-strings-and-number-methods-practice.js)
+- [notes/exercises/08-dates-math-and-regex-practice.js](notes/exercises/08-dates-math-and-regex-practice.js)
+- [notes/exercises/09-collections-and-maps-practice.js](notes/exercises/09-collections-and-maps-practice.js)
+- [notes/exercises/10-dom-and-events-practice.js](notes/exercises/10-dom-and-events-practice.js)
+- [notes/exercises/11-error-handling-and-debugging-practice.js](notes/exercises/11-error-handling-and-debugging-practice.js)
+- [notes/exercises/12-modules-and-modern-javascript-practice.js](notes/exercises/12-modules-and-modern-javascript-practice.js)
+
 ## How to run
 
 Use Node.js to run any topic file:
@@ -49,4 +65,8 @@ node Function.js
 - Error handling and debugging
 - Modules and modern JavaScript
 
-This project is intended for learning JavaScript fundamentals with clear examples and focused notes.
+## Extra resources
+- Quick reference cheat sheet: [notes/cheatsheet.js](notes/cheatsheet.js)
+- Practice exercises for each topic under [notes/exercises](notes/exercises)
+
+This project is intended for learning JavaScript fundamentals with clear examples, quick references, and hands-on practice.
