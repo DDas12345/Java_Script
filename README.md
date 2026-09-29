@@ -1,35 +1,50 @@
 # Java_Script
 
-This repository is a beginner-friendly JavaScript learning workspace containing practice examples and structured notes on essential JavaScript topics.
+This repository contains beginner-to-intermediate JavaScript notes and practice examples. Each topic is separated into its own JavaScript file for easier learning and revision.
 
-## Contents
-- [Function.js](Function.js) — example file with function-based JavaScript exercises
-- [notes/README.md](notes/README.md) — topic index
+## Project files
 
-## JavaScript Notes
-1. [Introduction to JavaScript](notes/01-introduction-to-javascript.md)
-2. [Variables and Data Types](notes/02-variables-and-data-types.md)
-3. [Operators and Expressions](notes/03-operators-and-expressions.md)
-4. [Control Flow and Loops](notes/04-control-flow-and-loops.md)
-5. [Functions and Scope](notes/05-functions-and-scope.md)
-6. [Arrays and Iteration](notes/06-arrays-and-iteration.md)
-7. [Objects and Classes](notes/07-objects-and-classes.md)
-8. [Strings and Number Methods](notes/08-strings-and-number-methods.md)
-9. [Asynchronous JavaScript](notes/09-asynchronous-javascript.md)
-10. [DOM and Events](notes/10-dom-and-events.md)
-11. [Error Handling and Debugging](notes/11-error-handling-and-debugging.md)
-12. [Modules and Modern JavaScript](notes/12-modules-and-modern-javascript.md)
+### Core examples
+- [Function.js](Function.js) – basic function examples and calculations
 
-## How to Run the Practice File
+### JavaScript notes
+- [notes/01-variables-and-data-types.js](notes/01-variables-and-data-types.js)
+- [notes/02-operators.js](notes/02-operators.js)
+- [notes/03-control-flow.js](notes/03-control-flow.js)
+- [notes/04-functions.js](notes/04-functions.js)
+- [notes/05-arrays.js](notes/05-arrays.js)
+- [notes/06-objects.js](notes/06-objects.js)
+- [notes/07-strings.js](notes/07-strings.js)
+- [notes/08-loops.js](notes/08-loops.js)
+- [notes/09-scope-and-hoisting.js](notes/09-scope-and-hoisting.js)
+- [notes/10-advanced-functions.js](notes/10-advanced-functions.js)
+- [notes/11-asynchronous-javascript.js](notes/11-asynchronous-javascript.js)
+- [notes/12-es6-features.js](notes/12-es6-features.js)
+
+## How to run
+
+Use Node.js to run any topic file:
+
+```bash
+node notes/01-variables-and-data-types.js
+```
+
 ```bash
 node Function.js
 ```
 
-## Recommended Learning Path
-- Begin with JavaScript basics and variables
-- Practice functions and scope
-- Learn arrays, objects, and strings
-- Move on to asynchronous programming and DOM
-- Finish with errors, modules, and modern JavaScript features
+## Topics covered
+- Variables and data types
+- Operators
+- Control flow
+- Functions and parameters
+- Arrays
+- Objects
+- Strings
+- Loops
+- Scope and hoisting
+- Advanced functions
+- Asynchronous JavaScript
+- ES6+ syntax
 
-This repository is designed to help you learn JavaScript step by step with clear examples and explanations.
+This project is intended for learning JavaScript fundamentals with clear examples and focused notes.
