@@ -1,28 +1,35 @@
-# JavaScript Notes
+# Java_Script
 
-This repository contains a structured set of JavaScript learning notes for beginners and intermediate learners.
+This repository is a beginner-friendly JavaScript learning workspace containing practice examples and structured notes on essential JavaScript topics.
 
-## Topics
+## Contents
+- [Function.js](Function.js) — example file with function-based JavaScript exercises
+- [notes/README.md](notes/README.md) — topic index
 
-1. [Variables and Data Types](notes/01-variables-and-data-types.md)
-2. [Operators and Expressions](notes/02-operators-and-expressions.md)
-3. [Control Flow](notes/03-control-flow.md)
-4. [Functions](notes/04-functions.md)
-5. [Arrays](notes/05-arrays.md)
-6. [Objects](notes/06-objects.md)
-7. [Strings](notes/07-strings.md)
-8. [Scope and Hoisting](notes/08-scope-and-hoisting.md)
-9. [ES6+ Features](notes/09-es6-features.md)
-10. [DOM Manipulation](notes/10-dom-manipulation.md)
-11. [Asynchronous JavaScript](notes/11-asynchronous-javascript.md)
-12. [Classes and Modules](notes/12-classes-and-modules.md)
+## JavaScript Notes
+1. [Introduction to JavaScript](notes/01-introduction-to-javascript.md)
+2. [Variables and Data Types](notes/02-variables-and-data-types.md)
+3. [Operators and Expressions](notes/03-operators-and-expressions.md)
+4. [Control Flow and Loops](notes/04-control-flow-and-loops.md)
+5. [Functions and Scope](notes/05-functions-and-scope.md)
+6. [Arrays and Iteration](notes/06-arrays-and-iteration.md)
+7. [Objects and Classes](notes/07-objects-and-classes.md)
+8. [Strings and Number Methods](notes/08-strings-and-number-methods.md)
+9. [Asynchronous JavaScript](notes/09-asynchronous-javascript.md)
+10. [DOM and Events](notes/10-dom-and-events.md)
+11. [Error Handling and Debugging](notes/11-error-handling-and-debugging.md)
+12. [Modules and Modern JavaScript](notes/12-modules-and-modern-javascript.md)
 
-## How to use
-
-Open any file in the notes folder to study a specific concept and use the examples as practice.
-
-## Run the sample file
-
+## How to Run the Practice File
 ```bash
 node Function.js
 ```
+
+## Recommended Learning Path
+- Begin with JavaScript basics and variables
+- Practice functions and scope
+- Learn arrays, objects, and strings
+- Move on to asynchronous programming and DOM
+- Finish with errors, modules, and modern JavaScript features
+
+This repository is designed to help you learn JavaScript step by step with clear examples and explanations.
