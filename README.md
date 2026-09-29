@@ -4,9 +4,6 @@ This repository contains beginner-to-intermediate JavaScript notes and practice 
 
 ## Project files
 
-### Core examples
-- [Function.js](Function.js) – basic function examples and calculations
-
 ### JavaScript notes
 - [notes/00-introduction-to-javascript.js](notes/00-introduction-to-javascript.js)
 - [notes/01-variables-and-data-types.js](notes/01-variables-and-data-types.js)
@@ -24,6 +21,7 @@ This repository contains beginner-to-intermediate JavaScript notes and practice 
 
 ### Practice exercises
 - [notes/cheatsheet.js](notes/cheatsheet.js) – quick reference for common JavaScript syntax
+- [notes/exercises/answer-key.js](notes/exercises/answer-key.js) – worked solutions for all exercises
 - [notes/exercises/00-introduction-practice.js](notes/exercises/00-introduction-practice.js)
 - [notes/exercises/01-variables-and-data-types-practice.js](notes/exercises/01-variables-and-data-types-practice.js)
 - [notes/exercises/02-operators-and-expressions-practice.js](notes/exercises/02-operators-and-expressions-practice.js)
@@ -67,6 +65,7 @@ node Function.js
 
 ## Extra resources
 - Quick reference cheat sheet: [notes/cheatsheet.js](notes/cheatsheet.js)
+- Worked answers for all exercises: [notes/exercises/answer-key.js](notes/exercises/answer-key.js)
 - Practice exercises for each topic under [notes/exercises](notes/exercises)
 
-This project is intended for learning JavaScript fundamentals with clear examples, quick references, and hands-on practice.
+This project is intended for learning JavaScript fundamentals with clear examples, quick references, worked solutions, and hands-on practice.
