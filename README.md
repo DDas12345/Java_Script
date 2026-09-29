@@ -8,18 +8,19 @@ This repository contains beginner-to-intermediate JavaScript notes and practice 
 - [Function.js](Function.js) – basic function examples and calculations
 
 ### JavaScript notes
+- [notes/00-introduction-to-javascript.js](notes/00-introduction-to-javascript.js)
 - [notes/01-variables-and-data-types.js](notes/01-variables-and-data-types.js)
-- [notes/02-operators.js](notes/02-operators.js)
-- [notes/03-control-flow.js](notes/03-control-flow.js)
-- [notes/04-functions.js](notes/04-functions.js)
-- [notes/05-arrays.js](notes/05-arrays.js)
-- [notes/06-objects.js](notes/06-objects.js)
-- [notes/07-strings.js](notes/07-strings.js)
-- [notes/08-loops.js](notes/08-loops.js)
-- [notes/09-scope-and-hoisting.js](notes/09-scope-and-hoisting.js)
-- [notes/10-advanced-functions.js](notes/10-advanced-functions.js)
-- [notes/11-asynchronous-javascript.js](notes/11-asynchronous-javascript.js)
-- [notes/12-es6-features.js](notes/12-es6-features.js)
+- [notes/02-operators-and-expressions.js](notes/02-operators-and-expressions.js)
+- [notes/03-control-flow-and-loops.js](notes/03-control-flow-and-loops.js)
+- [notes/04-functions-and-scope.js](notes/04-functions-and-scope.js)
+- [notes/05-arrays-and-iteration.js](notes/05-arrays-and-iteration.js)
+- [notes/06-objects-and-classes.js](notes/06-objects-and-classes.js)
+- [notes/07-strings-and-number-methods.js](notes/07-strings-and-number-methods.js)
+- [notes/08-dates-math-and-regex.js](notes/08-dates-math-and-regex.js)
+- [notes/09-collections-and-maps.js](notes/09-collections-and-maps.js)
+- [notes/10-dom-and-events.js](notes/10-dom-and-events.js)
+- [notes/11-error-handling-and-debugging.js](notes/11-error-handling-and-debugging.js)
+- [notes/12-modules-and-modern-javascript.js](notes/12-modules-and-modern-javascript.js)
 
 ## How to run
 
@@ -34,17 +35,18 @@ node Function.js
 ```
 
 ## Topics covered
+- JavaScript intro
 - Variables and data types
-- Operators
-- Control flow
-- Functions and parameters
-- Arrays
-- Objects
-- Strings
-- Loops
-- Scope and hoisting
-- Advanced functions
-- Asynchronous JavaScript
-- ES6+ syntax
+- Operators and expressions
+- Control flow and loops
+- Functions and scope
+- Arrays and iteration
+- Objects and classes
+- Strings and number methods
+- Dates, math, and regex
+- Collections and maps
+- DOM and events
+- Error handling and debugging
+- Modules and modern JavaScript
 
 This project is intended for learning JavaScript fundamentals with clear examples and focused notes.
